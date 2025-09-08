@@ -8,7 +8,7 @@ A simple web app to start, pause, reset, and record lap times.
 
 📸 Screenshot
 
-![Stopwatch Screenshot](images/screenshot.png)
+![Stopwatch Screenshot](images/Screenshot.png)
 
 ⚡ Features
 
